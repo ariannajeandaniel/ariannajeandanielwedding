@@ -6,16 +6,16 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Your awesome title</title>
-  <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.">
+  <title>Bienvenue sur Jekyll !</title>
+  <meta name="description" content="Cet article se situe dans le dossier _posts. Allez l’éditer, et générez votre site à nouveau pour voir les modifications. Vous pouvez générer le site de diff...">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/">
+  <link rel="canonical" href="http://localhost:4000/jekyll/update/2016/02/29/bienvenue-sur-jekyll.html">
   
+  <link rel="alternate" hreflang="en" href="/jekyll/update/2016/02/29/welcome-to-jekyll.html" />
+  <link rel="alternate" hreflang="fr" href="/jekyll/update/2016/02/29/bienvenue-sur-jekyll.html" />
   
-  <link rel="alternate" hreflang="en" href="/" />
-  <link rel="alternate" hreflang="fr" href="/accueil.html" />
-  <link rel="alternate" type="application/rss+xml" title="Your awesome title" href="http://localhost:4000/feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="Votre titre génial" href="http://localhost:4000/flux.xml">
 </head>
 
 
@@ -25,7 +25,7 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="/">Your awesome title</a>
+    <a class="site-title" href="/accueil.html">Votre titre génial</a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -40,7 +40,7 @@
         
         
           
-          <a class="page-link" href="/about/">About</a>
+          <a class="page-link" href="/a-propos.html">À propos</a>
           
         
           
@@ -56,35 +56,41 @@
 
 <div class="wrapper" style="text-align: right; line-height: 2em">
   
-  
+   <a href="/jekyll/update/2016/02/29/welcome-to-jekyll.html" class="en">en</a>  <a href="/jekyll/update/2016/02/29/bienvenue-sur-jekyll.html" class="fr">fr</a> 
 
   
-   <a href="/" class="en">en</a>  <a href="/accueil.html" class="fr">fr</a> 
+  
 </div>
 
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="home">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <h1 class="page-heading">Posts</h1>
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">Bienvenue sur Jekyll !</h1>
+    <p class="post-meta"><time datetime="2016-02-29T09:48:44+01:00" itemprop="datePublished">Feb 29, 2016</time></p>
+  </header>
 
-  <ul class="post-list">
-    
-    
-      <li>
-        <span class="post-meta">Feb 29, 2016</span>
+  <div class="post-content" itemprop="articleBody">
+    <p>Cet article se situe dans le dossier <code class="highlighter-rouge">_posts</code>. Allez l’éditer, et générez votre site à nouveau pour voir les modifications. Vous pouvez générer le site de différentes façons, mais le plus efficace est de lancer la commande <code class="highlighter-rouge">jekyll serve</code>, qui crée un serveur web et génère automatiquement votre site à chaque fois qu’un fichier est modifié.</p>
 
-        <h2>
-          <a class="post-link" href="/jekyll/update/2016/02/29/welcome-to-jekyll.html">Welcome to Jekyll!</a>
-        </h2>
-      </li>
-    
-  </ul>
+<p>Pour ajouter un autre article, créez un nouveau fichier dans le dossier <code class="highlighter-rouge">_posts</code> dont le nom contient la date de la façon suivante : <code class="highlighter-rouge">AAAA-MM-JJ-nom-de-l-article.ext</code> et placez-y l’entête.  includes the necessary front matter. Regardez le code source de cet article pour avoir une bonne idée de la façon dont cela fonctionne.</p>
 
-  <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
+<p>Jekyll permet aussi d’intégrer des extraits de code :</p>
 
-</div>
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Bonjour, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; affiche 'Bonjour, Tom' sur STDOUT.</span></code></pre></figure>
+
+<p>Jetez un coup d’oeil à la <a href="http://jekyllrb.com/docs/home">documentation de Jekyll</a> pour en savoir plus sur ce qu’il vous est possible de faire avec Jekyll. Tous les bugs et demandes de fonctionnalités doivent être envoyés sous forme de requête sur <a href="https://github.com/jekyll/jekyll">GitHub</a>. Si vous avez des questions, allez les poser sur le <a href="https://talk.jekyllrb.com/">fil d’aide de Jekyll</a>.</p>
+
+
+  </div>
+
+</article>
 
       </div>
     </div>
@@ -93,12 +99,12 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">Your awesome title</h2>
+    <h2 class="footer-heading">Votre titre génial</h2>
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li>Your awesome title</li>
+          <li>Votre titre génial</li>
           <li><a href="mailto:your-email@domain.com">your-email@domain.com</a></li>
         </ul>
       </div>
@@ -124,7 +130,7 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</p>
+        <p>Écrivez une super description de votre nouveau site ici. Vous pouvez modifier cette ligne dans _config.yml. Elle apparaîtra dans la balise meta description (pour les résultats sur Google) et dans le fil RSS feed.xml.</p>
       </div>
     </div>
 
