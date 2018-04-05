@@ -39,6 +39,8 @@
         
           <xhtml:link rel="alternate" hreflang="en" href="/about/" />
         
+          <xhtml:link rel="alternate" hreflang="it" href="/about/" />
+        
         <changefreq>weekly</changefreq>
       </url>
     
@@ -51,6 +53,8 @@
           <xhtml:link rel="alternate" hreflang="fr" href="/a-propos.html" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/about/" />
+        
+          <xhtml:link rel="alternate" hreflang="it" href="/about/" />
         
         <changefreq>weekly</changefreq>
       </url>
@@ -65,6 +69,8 @@
         
           <xhtml:link rel="alternate" hreflang="en" href="/" />
         
+          <xhtml:link rel="alternate" hreflang="it" href="/indice.html" />
+        
         <changefreq>weekly</changefreq>
       </url>
     
@@ -72,6 +78,15 @@
     
       <url>
         <loc>/feed.xml</loc>
+        
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/flusso.xml</loc>
         
         
         <changefreq>weekly</changefreq>
@@ -95,6 +110,38 @@
           <xhtml:link rel="alternate" hreflang="fr" href="/accueil.html" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="it" href="/indice.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/indice.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/accueil.html" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="it" href="/indice.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/about/</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/a-propos.html" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/about/" />
+        
+          <xhtml:link rel="alternate" hreflang="it" href="/about/" />
         
         <changefreq>weekly</changefreq>
       </url>
