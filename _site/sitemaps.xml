@@ -4,36 +4,6 @@
   
     
       <url>
-        <loc>/a-propos.html</loc>
-        
-        
-          <xhtml:link rel="alternate" hreflang="fr" href="/a-propos.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/about.html" />
-        
-          <xhtml:link rel="alternate" hreflang="it" href="/info.html" />
-        
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
-        <loc>/about.html</loc>
-        
-        
-          <xhtml:link rel="alternate" hreflang="fr" href="/a-propos.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/about.html" />
-        
-          <xhtml:link rel="alternate" hreflang="it" href="/info.html" />
-        
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
         <loc>/accueil.html</loc>
         
         
@@ -72,21 +42,6 @@
           <xhtml:link rel="alternate" hreflang="en" href="/" />
         
           <xhtml:link rel="alternate" hreflang="it" href="/indice.html" />
-        
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
-        <loc>/info.html</loc>
-        
-        
-          <xhtml:link rel="alternate" hreflang="fr" href="/a-propos.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/about.html" />
-        
-          <xhtml:link rel="alternate" hreflang="it" href="/info.html" />
         
         <changefreq>weekly</changefreq>
       </url>
