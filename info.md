@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Info
-permalink: /about/
 ref: about
 lang: it
 ---

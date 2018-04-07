@@ -9,9 +9,9 @@
         
           <xhtml:link rel="alternate" hreflang="fr" href="/a-propos.html" />
         
-          <xhtml:link rel="alternate" hreflang="en" href="/about/" />
+          <xhtml:link rel="alternate" hreflang="en" href="/about.html" />
         
-          <xhtml:link rel="alternate" hreflang="it" href="/about/" />
+          <xhtml:link rel="alternate" hreflang="it" href="/info.html" />
         
         <changefreq>weekly</changefreq>
       </url>
@@ -19,14 +19,14 @@
   
     
       <url>
-        <loc>/about/</loc>
+        <loc>/about.html</loc>
         
         
           <xhtml:link rel="alternate" hreflang="fr" href="/a-propos.html" />
         
-          <xhtml:link rel="alternate" hreflang="en" href="/about/" />
+          <xhtml:link rel="alternate" hreflang="en" href="/about.html" />
         
-          <xhtml:link rel="alternate" hreflang="it" href="/about/" />
+          <xhtml:link rel="alternate" hreflang="it" href="/info.html" />
         
         <changefreq>weekly</changefreq>
       </url>
@@ -106,14 +106,14 @@
   
     
       <url>
-        <loc>/about/</loc>
+        <loc>/info.html</loc>
         
         
           <xhtml:link rel="alternate" hreflang="fr" href="/a-propos.html" />
         
-          <xhtml:link rel="alternate" hreflang="en" href="/about/" />
+          <xhtml:link rel="alternate" hreflang="en" href="/about.html" />
         
-          <xhtml:link rel="alternate" hreflang="it" href="/about/" />
+          <xhtml:link rel="alternate" hreflang="it" href="/info.html" />
         
         <changefreq>weekly</changefreq>
       </url>
