@@ -121,6 +121,36 @@
   
     
       <url>
+        <loc>/lista-di-nozze.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="it" href="/lista-di-nozze.html" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/liste-de-mariage.html" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/wedding-list.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/liste-de-mariage.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="it" href="/lista-di-nozze.html" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/liste-de-mariage.html" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/wedding-list.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
         <loc>/css/main.css</loc>
         
         
@@ -132,6 +162,21 @@
       <url>
         <loc>/sitemaps.xml</loc>
         
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/wedding-list.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="it" href="/lista-di-nozze.html" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/liste-de-mariage.html" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/wedding-list.html" />
         
         <changefreq>weekly</changefreq>
       </url>
