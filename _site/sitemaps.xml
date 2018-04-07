@@ -49,33 +49,6 @@
   
     
       <url>
-        <loc>/feed.xml</loc>
-        
-        
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
-        <loc>/flusso.xml</loc>
-        
-        
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
-        <loc>/flux.xml</loc>
-        
-        
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
         <loc>/</loc>
         
         

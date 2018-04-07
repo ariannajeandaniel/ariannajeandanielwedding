@@ -19,10 +19,6 @@ index:
   en:
   fr: accueil.html
   it: indice.html
-feed:
-  en: /feed.xml
-  fr: /flux.xml
-  it: /flusso.html
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
